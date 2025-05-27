@@ -15,7 +15,7 @@ $ npm install
 ## Run
 
 ```
-$ npm start
+$ npm start 
 ```
 
 ### ...with Web Based App
